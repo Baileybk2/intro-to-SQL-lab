@@ -36,7 +36,7 @@ CREATE TABLE countrylanguages (
     language text NOT NULL,
     isofficial boolean NOT NULL,
     percentage real NOT NULL
-);
+)
 
 INSERT INTO cities VALUES (1,'Kabul','AFG','Kabol',1780000);
 INSERT INTO cities VALUES (2,'Qandahar','AFG','Qandahar',237500);
